@@ -78,7 +78,7 @@
                             <input type="hidden" name="action" value="login">
                             <div class="form-floating mb-3">
                                 <input type="text" class="form-control" name="username" placeholder="Username" required>
-                                <label>Enter your email address</label>
+                                <label>Enter your role</label>
                             </div>
                             <div class="form-floating mb-3">
                                 <input type="password" class="form-control" name="password" placeholder="Password" required>
