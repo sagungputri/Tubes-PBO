@@ -1,0 +1,13 @@
+package models;
+
+public class Admin extends Person {
+
+    public Admin(String username) {
+        super(username, "admin");
+    }
+
+    public void accessAdminFeatures() {
+        // Implementasi fitur khusus admin
+        System.out.println("Admin memiliki akses penuh.");
+    }
+}
