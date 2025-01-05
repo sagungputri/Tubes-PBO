@@ -7,4 +7,5 @@ Kelas IF-46-08
 - Raisya Azzuhra                                 
 - Muhammad Alvino                              
 - Adinda Laras Sri Rahtami                  
-- Azkha Mardiyan Muttaqien                
+- Azkha Mardiyan Muttaqien
+(Pengerjaan tubes dilakukan bersamaan, seluruh anggota ikut terlibat dalam pengerjaan)
